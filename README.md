@@ -1,16 +1,79 @@
-# React + Vite
+# 🤖 Gemini AI Chat App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern AI chatbot built using React and Google Gemini API. This application allows users to interact with Gemini AI in a clean and responsive interface.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- AI-powered chat using Gemini API
+- Real-time responses
+- Clean and responsive UI
+- Easy-to-use interface
+- Fast and lightweight React application
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript
+- CSS
+- Google Gemini API
 
-## Expanding the ESLint configuration
+## 📦 Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/gemini-chat-app.git
+```
+
+2. Navigate to the project folder
+
+```bash
+cd gemini-chat-app
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Add your Gemini API Key
+
+Create a `.env` file in the root directory and add:
+
+```env
+VITE_GEMINI_API_KEY=your_api_key_here
+```
+
+5. Start the development server
+
+```bash
+npm run dev
+```
+
+## 📸 Screenshots
+
+Add screenshots of your application here.
+## 📸 Screenshots
+
+### Home Page
+![Intro](.Intro.pdf)
+
+### Chat Interface
+![Chat Interface](./screenshots/chat.png)
+## 🚀 Future Improvements
+
+- Chat history
+- Dark mode
+- Multiple AI models
+- Voice input support
+
+## 👨‍💻 Author
+
+**Manu Kumar**
+
+GitHub: https://github.com/your-username
+
+## 📄 License
+
+This project is licensed under the MIT License.
