@@ -57,7 +57,7 @@ Add screenshots of your application here.
 ## 📸 Screenshots
 
 ### Home Page
-![Intro](.Intro.pdf)
+![Intro]([.Intro.pdf](https://github.com/Manukumar7644/Gemini-AI-Chat-App/blob/4a6fc73ec374d4ef89e6ece438de4507dedc2e76/0-Intro.pdf))
 
 ### Chat Interface
 ![Chat Interface](./screenshots/chat.png)
